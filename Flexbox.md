@@ -14,5 +14,5 @@
 
 注意：当父盒子设为flex布局后，子元素的float、clear和vertical-align属性将失效，子元素中的元素会自动垂直居中。
 
-查阅右侧链接[了解详细信息](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+查阅右侧链接[了解详细信息](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)  
 查阅右侧链接[了解详细信息](https://web.dev/learn/css/flexbox/)
