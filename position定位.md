@@ -15,5 +15,5 @@ static是position的默认值。元素使用正常的布局行为，即元素在
 * 行内元素添加绝对或固定定位，可以直接设置宽度和高度。块级元素添加绝对或固定定位，如果不给宽度或高度，默认大小是内容的大小。  
 * 脱离标准流的元素不会引起外边距塌陷的问题。
 
-参考文档[MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/position)
+参考文档[MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/position)  
 参考文档[阮一峰-CSS定位详解](https://www.ruanyifeng.com/blog/2019/11/css-position.html)
