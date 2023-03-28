@@ -1,5 +1,5 @@
 ### 块级元素(display: block)
-常见的块级元素有&lt;h1>&gt;~&lt;h6>、&lt;p>、&lt;div>、&lt;ul>、&lt;ol>、&lt;li>等  
+常见的块级元素有&lt;h1>~&lt;h6>、&lt;p>、&lt;div>、&lt;ul>、&lt;ol>、&lt;li>等  
 块级元素的特点：  
 * 独占一行，并且会在前后添加额外的空白（margin）  
 * 高度、宽度、内外边距都可以控制  
