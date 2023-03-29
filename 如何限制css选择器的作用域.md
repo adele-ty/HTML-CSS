@@ -8,7 +8,7 @@
   color: red;
 }
 ```
-在这个例子中，仅在类名为 limited-scope 的 <div> 内的 <p> 标签会被着色为红色。  
+在这个例子中，仅在类名为 limited-scope 的 &lt;div> 内的 &lt;p> 标签会被着色为红色。  
 * 使用特定的类名
 ```c
 <p class="limited-scope">这段文本将受到限制作用域的影响。</p>
@@ -16,7 +16,7 @@
   color: red;
 }
 ```
-在这个例子中，只有具有类名 limited-scope 的 <p> 标签会被着色为红色。  
+在这个例子中，只有具有类名 limited-scope 的 &lt;p> 标签会被着色为红色。  
 * 使用属性选择器
 ```c
 <p data-limited-scope>这段文本将受到限制作用域的影响。</p>
@@ -24,4 +24,4 @@ p[data-limited-scope] {
   color: red;
 }
 ```
-在这个例子中，只有具有 data-limited-scope 属性的 <p> 标签会被着色为红色。
+在这个例子中，只有具有 data-limited-scope 属性的 &lt;p> 标签会被着色为红色。
